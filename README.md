@@ -49,9 +49,9 @@
 
 ## 🌟 Top Projects  
 
+- 🔍 *[Perfect Resume](https://github.com/HARSHA-8855/Perfect-Resume)* - Build and customize resumes with ease using Perfect Resume.
 - 🔍 *[Smart OCR](https://github.com/HARSHA-8855/smart_ocr.git)* - Extract text from images using OCR  
 - 🤖 *[Resume Chatbot](https://github.com/HARSHA-8855/Resume-Chatbot)* - AI-powered chatbot for resume-related queries  
-
 ---
 
 ## 🌱 Currently Learning  
